@@ -92,14 +92,7 @@ Feature importance analysis eliminated less significant PCA components, ensuring
 
 - **A dataset and Jupyter notebook are included in the GitHub repository.**
 - **Open the notebook and run each cell step-by-step.**   
-- **Ensure to update the path to the dataset to match your local PC directory before running the notebook.**  
 
-Example:  
-```python
-FILE_PATH = "path/to/your/local/datasets/"
-```  
-
----
 
 ## 📈 Results  
 - **PCA Visualization**: Players grouped into clusters representing their roles (Attackers, Midfielders, Defenders, Goalkeepers).  
